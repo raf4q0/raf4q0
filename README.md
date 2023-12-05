@@ -26,6 +26,6 @@ You can reach me through the following channels:
 
 - GitHub: [github.com/raf4q0](https://github.com/raf4q0)
 - LinkedIn: [https://www.linkedin.com/in/rafael-e-quintero-mart%C3%ADnez-46a899175/](https://www.linkedin.com/in/rafael-e-quintero-mart%C3%ADnez-46a899175)
-- Email: rafa4q0@gmail.com
+- Email: raf4q0@gmail.com
 
 Feel free to connect, and let's create some awesome tech together!
