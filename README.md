@@ -24,8 +24,6 @@ I'm open to collaborating on any projects related to DevOps, automation, cloud t
 
 You can reach me through the following channels:
 
-- GitHub: [github.com/raf4q0](https://github.com/raf4q0)
 - LinkedIn: [https://www.linkedin.com/in/rafael-e-quintero-mart%C3%ADnez-46a899175/](https://www.linkedin.com/in/rafael-e-quintero-mart%C3%ADnez-46a899175)
-- Email: raf4q0@gmail.com
 
 Feel free to connect, and let's create some awesome tech together!
